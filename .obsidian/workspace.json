@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "70ec52d6cddadf6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc0810e9ff82719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2d540031d9336c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Web Application Layout"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d3e31478370ea8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c2e490c51c4b42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a296401d04f5a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Tiedostot"
+            }
+          },
+          {
+            "id": "2af8e92f84d7c559",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Etsi"
+            }
+          },
+          {
+            "id": "08a6b08d85bb4c48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Kirjanmerkit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3c4a02b2ac71c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4db0fb00eeb2bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0853964bb1964ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Paluulinkit"
+            }
+          },
+          {
+            "id": "658e324fde95eb50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Lähtevät linkit"
+            }
+          },
+          {
+            "id": "4309b63e7dfb66af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tunnisteet"
+            }
+          },
+          {
+            "id": "d7f96ec97819da6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Kaikki määreet"
+            }
+          },
+          {
+            "id": "51ec9a0476ee5000",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sisällysluettelo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Avaa pikavaihdin": false,
+      "graph:Avaa verkkonäkymä": false,
+      "canvas:Luo uusi valkotaulu": false,
+      "daily-notes:Avaa tämän päivän muistiinpanot": false,
+      "templates:Lisää malline": false,
+      "command-palette:Avaa komentovalikko": false,
+      "bases:Luo uusi kanta": false
+    }
+  },
+  "active": "8f2d540031d9336c",
+  "lastOpenFiles": [
+    "README.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/2. Uel Encoding.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/1. Attacking web applications.md",
+    "Web Penetration Tester Path/1. Web Requests/8. CRUD API.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application",
+    "Web Penetration Tester Path/1. Web Requests/7. HTTP Methods and Codes.md",
+    "Web Penetration Tester Path/1. Web Requests/6. More curl.md",
+    "Web Penetration Tester Path/1. Web Requests/5. HTTP Headers.md",
+    "Web Penetration Tester Path/1. Web Requests/4. HTTP Requests and Responses.md",
+    "Web Penetration Tester Path/1. Web Requests/Pasted image 20260816172503.png",
+    "Web Penetration Tester Path/1. Web Requests/Pasted image 20260816172224.png",
+    "Web Penetration Tester Path/1. Web Requests/3. HTTPS Overview.md",
+    "Web Penetration Tester Path/1. Web Requests/Kuvakaappaus_20260816_172056.png",
+    "Web Penetration Tester Path/1. Web Requests/2. Curl.md",
+    "Web Penetration Tester Path/1. Web Requests/1. Hypertext Transfer Protocol HTTP.md",
+    "Web Penetration Tester Path/1. Web Requests",
+    "Web Penetration Tester Path",
+    "Tier 2",
+    "Tier 1",
+    "Tier 0"
+  ]
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "file": "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Web Application Layout"
+              "title": "1. Incident handling definition and scope"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "file": "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "file": "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
+                "file": "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,9 +190,19 @@
   },
   "active": "8f2d540031d9336c",
   "lastOpenFiles": [
+    "Web Penetration Tester Path/2. Introduction to Web Application/9. Common Web Vulnerabilities.md",
+    "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
+    "SOC Analyst Path/1. Incident Handling Process",
+    "SOC Analyst Path",
+    "Web Penetration Tester Path/2. Introduction to Web Application/8. Development Frameworks & APIs.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/7. Databases.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/Pasted image 20260816182218.png",
+    "Web Penetration Tester Path/2. Introduction to Web Application/6. Back End Servers and web servers.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/5. Front End Vulnerabilities.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/4. Javascript.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/3. Web Application Layout.md",
+    "Web Penetration Tester Path/2. Introduction to Web Application/2. Url Encoding.md",
     "README.md",
-    "Web Penetration Tester Path/2. Introduction to Web Application/2. Uel Encoding.md",
-    "Web Penetration Tester Path/2. Introduction to Web Application/2. Web Application Layout.md",
     "Web Penetration Tester Path/2. Introduction to Web Application/1. Attacking web applications.md",
     "Web Penetration Tester Path/1. Web Requests/8. CRUD API.md",
     "Web Penetration Tester Path/2. Introduction to Web Application",
@@ -208,8 +218,8 @@
     "Web Penetration Tester Path/1. Web Requests/1. Hypertext Transfer Protocol HTTP.md",
     "Web Penetration Tester Path/1. Web Requests",
     "Web Penetration Tester Path",
-    "Tier 2",
-    "Tier 1",
-    "Tier 0"
+    "2 Tier",
+    "1 Tier",
+    "0 Tier"
   ]
 }

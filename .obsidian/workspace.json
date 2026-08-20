@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/1. Helpful tcpdump filters.md",
+                "file": "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/6. Protocol Filter - Common Name.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Helpful tcpdump filters"
+              "title": "6. Protocol Filter - Common Name"
             }
           }
         ]
@@ -190,8 +190,19 @@
   },
   "active": "8f2d540031d9336c",
   "lastOpenFiles": [
-    "SOC Analyst Path/2. Network Traffic Analysis/11. Tcpdump Fundamentals.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/7. Protocol Filter - Number.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/8. Port Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/9. Port range filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/10. Less or Greater Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/11. AND Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/12. NOT Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/6. Protocol Filter - Common Name.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/5. Using Destination in Combination with the Net Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/4. Utilizing Source With Port as a Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/3. Source Destination Filter.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/2. Host filter.md",
     "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide/1. Helpful tcpdump filters.md",
+    "SOC Analyst Path/2. Network Traffic Analysis/11. Tcpdump Fundamentals.md",
     "SOC Analyst Path/2. Network Traffic Analysis/12. Packet filtering guide",
     "SOC Analyst Path/2. Network Traffic Analysis/10. Analysis approach.md",
     "SOC Analyst Path/2. Network Traffic Analysis/9. The analysis process.md",
@@ -208,21 +219,10 @@
     "SOC Analyst Path/2. Network Traffic Analysis",
     "SOC Analyst Path/1. Incident Handling Process/7. Containment, Eradication, and Recovery Stage.md",
     "SOC Analyst Path/1. Incident Handling Process/6. Detection and analysis stage.md",
-    "SOC Analyst Path/1. Incident Handling Process/5. Preparation Stage.md",
-    "SOC Analyst Path/1. Incident Handling Process/4. Incident Handling Process Overview.md",
-    "SOC Analyst Path/1. Incident Handling Process/2. Stages in the cyber kill chain.md",
-    "SOC Analyst Path/1. Incident Handling Process/3. Pyramid of pain.md",
-    "README.md",
     "SOC Analyst Path/1. Incident Handling Process/Pasted image 20260818181109.png",
-    "SOC Analyst Path/1. Incident Handling Process/1. Incident handling definition and scope.md",
-    "Web Penetration Tester Path/2. Introduction to Web Application/9. Common Web Vulnerabilities.md",
     "SOC Analyst Path/1. Incident Handling Process",
     "SOC Analyst Path",
-    "Web Penetration Tester Path/2. Introduction to Web Application/8. Development Frameworks & APIs.md",
-    "Web Penetration Tester Path/2. Introduction to Web Application/7. Databases.md",
     "Web Penetration Tester Path/2. Introduction to Web Application/Pasted image 20260816182218.png",
-    "Web Penetration Tester Path/2. Introduction to Web Application/6. Back End Servers and web servers.md",
-    "Web Penetration Tester Path/2. Introduction to Web Application/5. Front End Vulnerabilities.md",
     "Web Penetration Tester Path/2. Introduction to Web Application",
     "Web Penetration Tester Path/1. Web Requests/Pasted image 20260816172503.png",
     "Web Penetration Tester Path/1. Web Requests/Pasted image 20260816172224.png",

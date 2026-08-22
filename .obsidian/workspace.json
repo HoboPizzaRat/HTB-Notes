@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/2. Introduction to elastic stack.md",
+                "file": "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/3. Kibana query language.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introduction to elastic stack"
+              "title": "3. Kibana query language"
             }
           }
         ]
@@ -190,8 +190,13 @@
   },
   "active": "8f2d540031d9336c",
   "lastOpenFiles": [
-    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/1. What is siem and how does it work.md",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/4. Elastic documentation as of help.md",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/5. Exericses 1.md",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/6. Soc Definition and Fundamentals.md",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/3. Kibana query language.md",
     "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/2. Introduction to elastic stack.md",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/Pasted image 20260822121612.png",
+    "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals/1. What is siem and how does it work.md",
     "SOC Analyst Path/7. Network Traffic Analysis/12. Packet filtering guide/6. Protocol Filter - Common Name.md",
     "SOC Analyst Path/2. Security Monitoring and SIEM Fundamentals",
     "SOC Analyst Path/7. Network Traffic Analysis/12. Packet filtering guide/7. Protocol Filter - Number.md",
@@ -215,10 +220,6 @@
     "SOC Analyst Path/7. Network Traffic Analysis/6. HTTP Methods.md",
     "SOC Analyst Path/7. Network Traffic Analysis/5. TCP  VS UDP Transport Mechanisms.md",
     "SOC Analyst Path/7. Network Traffic Analysis/4. OSI vs TCP-IP Models.md",
-    "SOC Analyst Path/7. Network Traffic Analysis/3. Performing network traffic analysis.md",
-    "SOC Analyst Path/7. Network Traffic Analysis/2. Common Traffic analysis tools.md",
-    "SOC Analyst Path/7. Network Traffic Analysis/1. Network traffic analysis.md",
-    "SOC Analyst Path/1. Incident Handling Process/8. Analysis of Insight Nexus Breach.md",
     "SOC Analyst Path/7. Network Traffic Analysis",
     "SOC Analyst Path/1. Incident Handling Process/Pasted image 20260818181109.png",
     "SOC Analyst Path/1. Incident Handling Process",
